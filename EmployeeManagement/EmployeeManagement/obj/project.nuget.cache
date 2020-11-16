@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jXBiaGIKotFM79lx/ecQbSbtjqeB+XR4TC5H6H6Q3kZZqG4AYu9Dguggm4lHWJPUTQlCFidU8dVCYX+0vtOXVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hami.kaveii\\Documents\\GitHub\\AspNetCore\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hami.kaveii\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.2.0\\microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
